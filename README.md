@@ -35,5 +35,5 @@
 
 
 <div align="center">
-<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/1.jpeg" alt="My footer"  />
+<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/bug_header.jpg" alt="My footer"  />
 </div>
