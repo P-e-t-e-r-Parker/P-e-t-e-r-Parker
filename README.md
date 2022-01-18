@@ -2,11 +2,11 @@
 <img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/bug_header.jpg" alt="My Logo"  />
 </div>
 
-## :house: Добро Пожаловать!</h2>
-## :heavy_check_mark: Я QA ENGINEER 
+# :house: Добро Пожаловать!</h2>
+### :heavy_check_mark: Я QA ENGINEER 
 ### :heavy_check_mark: БЛА БЛА БЛА
-#### :heavy_check_mark: БЛА БЛА БЛА 
-##### :heavy_check_mark: БЛА БЛА БЛА 
+### :heavy_check_mark: БЛА БЛА БЛА 
+### :heavy_check_mark: БЛА БЛА БЛА 
 
 ## :pushpin:**КАК СО МНОЙ СВЯЗАТЬСЯ**
 
