@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/png-clipart-quality-assurance-question-hindi-product-design-family-quality-assurance-expert-family-thumbnail.png" alt="My Logo"  />
+<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/bug_header.jpg" alt="My Logo"  />
 </div>
 
 ## :house: Добро Пожаловать!</h2>
@@ -35,5 +35,5 @@
 
 
 <div align="center">
-<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/bug_header.jpg" alt="My footer"  />
+<img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/1.jpeg" alt="My footer"  />
 </div>
