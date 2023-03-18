@@ -21,16 +21,10 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
 ![AndroidStudio](https://img.shields.io/static/v1?style=for-the-badge&logo=androidstudio&message=Android%20Studio&label=&color=3ddc84&labelColor=000000)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&logo=jira&message=Jira&label=&color=2580f7&labelColor=000000)
-![Confluence](https://img.shields.io/static/v1?style=for-the-badge&logo=confluence&message=Confluence&label=&color=1d76ef&labelColor=000000)
-![Fedora](https://img.shields.io/static/v1?style=for-the-badge&logo=fedora&message=Fedora&label=&color=51a2da&labelColor=000000)
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&logo=json&message=JSON&label=&color=5E5C5C&labelColor=000000)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
-![VS_Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&logo=markdown&message=Markdown&label=&color=32aab8&labelColor=000000)
-![Canva](https://img.shields.io/static/v1?style=for-the-badge&logo=canva&message=Canva&label=&color=00c4cc&labelColor=000000)
-
 
 <div align="center">
 <img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/1.jpeg" alt="My footer"  />
