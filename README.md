@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
 ![AndroidStudio](https://img.shields.io/static/v1?style=for-the-badge&logo=androidstudio&message=Android%20Studio&label=&color=3ddc84&labelColor=000000)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&logo=jira&message=Jira&label=&color=2580f7&labelColor=000000)
-![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)(https://github.com/P-e-t-e-r-Parker/GitBash)
 
 <div align="center">
 <img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/1.jpeg" alt="My footer"  />
