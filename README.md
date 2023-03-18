@@ -15,9 +15,9 @@
 
 # 🪁 Languages & Tools
 
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=Postman&label=&color=F05032&labelColor=000000)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=postgresql&message=PostgreSQL&label=&color=316192&labelColor=000000)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=Postman&label=&color=F05032&labelColor=000000)](https://github.com/P-e-t-e-r-Parker/Postman)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=postgresql&message=PostgreSQL&label=&color=316192&labelColor=000000)](https://github.com/P-e-t-e-r-Parker/SQL)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)](https://github.com/P-e-t-e-r-Parker/SQL)
 ![AndroidStudio](https://img.shields.io/static/v1?style=for-the-badge&logo=androidstudio&message=Android%20Studio&label=&color=3ddc84&labelColor=000000)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&logo=jira&message=Jira&label=&color=2580f7&labelColor=000000)
 [![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)](https://github.com/P-e-t-e-r-Parker/GitBash)
