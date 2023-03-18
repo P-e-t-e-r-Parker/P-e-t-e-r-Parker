@@ -12,7 +12,6 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/petrshelkunov)
 [![mail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=mail&label=&color=e8203b&labelColor=000000)](mailto:petia.shelkunov@yandex.ru)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=3947c4&labelColor=000000)](https://linkedin.com/in/petr-shhelkunov)
-[![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/P-e-t-e-r-Parker)
 
 # 🪁 Languages & Tools
 
@@ -22,9 +21,6 @@
 ![AndroidStudio](https://img.shields.io/static/v1?style=for-the-badge&logo=androidstudio&message=Android%20Studio&label=&color=3ddc84&labelColor=000000)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&logo=jira&message=Jira&label=&color=2580f7&labelColor=000000)
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
-![JSON](https://img.shields.io/static/v1?style=for-the-badge&logo=json&message=JSON&label=&color=5E5C5C&labelColor=000000)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
 
 <div align="center">
 <img src="https://github.com/P-e-t-e-r-Parker/group26_petr/blob/main/assert/1.jpeg" alt="My footer"  />
